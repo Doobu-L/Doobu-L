@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+ <img src="https://img.shields.io/badge/JAVA-#007396?style=flat&logo=JAVA&logoColor=white"/>
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seop00513@gmail.com)](mailto:seop00513@gmail.com)
 <!--
